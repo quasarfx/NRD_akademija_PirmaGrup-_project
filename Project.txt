@@ -1,0 +1,16 @@
+﻿Knygų recenzijų rašymas bei jų kainų palyginimas skirtingose svetainėse
+
+
+Idėja leisti žmonėm rašyti recenzijas perskaitytom knygom, vertinti jas. Taip pat būtų galimybė matyti knygos kainą bent 
+keletoje skirtingų internetinių parduotuvių. Dar vienas funkcionalumas, kurį galėtume padaryti tai - forumas bendrauti 
+skaitytojam. Manome ,kad tai būtų reikalingas, konkurencingas bei įdomus projektas. Atlikę paieška internete panašaus 
+produkto kol kas neradome. Daugiausia šia tema svetainės yra kuriamos blogų tipo ,kurios menkai išpildytos tiek vizualiai 
+tiek funkcionaliai, kaip pvz. http://www.skaityta.lt ar https://skaitomiausiosknygos.lt.
+
+
+Parengė NRD akademijos pirma grupė:
+
+Deimantas
+Karolina
+Lukas
+
