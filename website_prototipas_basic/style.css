@@ -1,0 +1,20 @@
+body{
+    background-image: url("img/ae1de48f4a92691bab479067b8555573.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.table{
+    margin-top: 20%;
+    margin-left: 14%;
+    width: 80%;
+}
+
+.table thead{
+    font-size: 22px;
+}
+
+.table tbody td{
+    height: 90px;
+}
+
